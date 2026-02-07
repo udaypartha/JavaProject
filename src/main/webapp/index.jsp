@@ -1,81 +1,14 @@
-<!DOCTYPE html>
 <html>
-<head>
-    <title>Time Table</title>
-</head>
-<body>
-
-<h2 align="center">TIME TABLE</h2>
-
-
-<table border="1" cellspacing="0" cellpadding="10" align="center">
-    <tr>
-        <th>Day / Period</th>
-        <th>I<br>9:30-10:20</th>
-        <th>II<br>10:20-11:10</th>
-        <th>III<br>11:10-12:00</th>
-        <th>12:00-12:40</th>
-        <th>IV<br>12:40-1:30</th>
-        <th>V<br>1:30-2:20</th>
-        <th>VI<br>2:20-3:10</th>
-        <th>VII<br>3:10-4:00</th>
-    </tr>
-
-    <tr>
-        <th>Monday</th>
-        <td>Eng</td>
-        <td>Mat</td>
-        <td>Che</td>
-        <td rowspan="6" align="center">L<br>U<br>N<br>C<br>H</td>
-        <td colspan="3" align="center">LAB</td>
-        <td>Phy</td>
-    </tr>
-
-    <tr>
-        <th>Tuesday</th>
-        <td colspan="3" align="center">LAB</td>
-        <td>Eng</td>
-        <td>Che</td>
-        <td>Mat</td>
-        <td>SPORTS</td>
-    </tr>
-
-    <tr>
-        <th>Wednesday</th>
-        <td>Mat</td>
-        <td>Phy</td>
-        <td>Eng</td>
-        <td>Che</td>
-        <td colspan="3" align="center">LIBRARY</td>
-    </tr>
-
-    <tr>
-        <th>Thursday</th>
-        <td>Phy</td>
-        <td>Eng</td>
-        <td>Che</td>
-        <td colspan="3" align="center">LAB</td>
-        <td>Mat</td>
-    </tr>
-
-    <tr>
-        <th>Friday</th>
-        <td colspan="3" align="center">LAB</td>
-        <td>Mat</td>
-        <td>Che</td>
-        <td>Eng</td>
-        <td>Phy</td>
-    </tr>
-
-    <tr>
-        <th>Saturday</th>
-        <td>Eng</td>
-        <td>Che</td>
-        <td>Mat</td>
-        <td colspan="3" align="center">SEMINAR</td>
-        <td>SPORTS</td>
-    </tr>
-</table>
-
+<body bgcolor="green">
+	<h1 style="color: white; font-size: 50px;" align="center">Congratulations!!</h1>
+	<h1 style="color: white; font-size: 50px;" align="center">The Application was deployed using AWS code deploy</h1>
+	<h1 style="color: white; font-size: 50px;" align="center">#BuildwithAWS - Implementing CI/CD pipeline on AWS by Production Support team
+    <h1 style="color: white; font-size: 50px;" align="center">#BuildwithAWS - This is my complete DevOps project using ci/cd pipeline hosted on AWS Ec2 instances
+</h1>
+</h1>
+	
+	
+	
+	
 </body>
-</html>
+</html
